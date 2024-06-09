@@ -6,7 +6,7 @@ Passionate software testing engineer with expertise in automation testing techno
 ⚡ **A Few Quick Facts**
 
 - 🛠️ I'm currently working as a QA Team Lead at Voicespin Ltd.
-- 🧠 I’m currently learning: **Appium, Jenkins, Jenkins**.
+- 🧠 I’m currently learning: **Appium, Jenkins, Allure TestOps**.
 - 📫 How to reach me: **iper1305@gmail.com**
 
 ### Connect with me:
