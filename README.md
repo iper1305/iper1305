@@ -2,9 +2,12 @@
 
 Passionate software testing engineer with expertise in automation testing technologies like Java, Selenide, Maven, Allure. Always eager to learn and take on new challenges in the tech world.
 
-## 🌱 I’m currently learning: **Appium**
 
-## 📫 How to reach me: **iper1305@gmail.com**
+⚡ **A Few Quick Facts**
+
+- 🛠️ I'm currently working as a QA Team Lead at Voicespin Ltd.
+- 🧠 I’m currently learning: **Appium, Jenkins, Jenkins**.
+- 📫 How to reach me: **iper1305@gmail.com**
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perepada/)
