@@ -4,7 +4,7 @@ Passionate software testing engineer with expertise in automation testing techno
 
 ## 🌱 I’m currently learning: **Appium**
 
-## 📫 How to reach me **iper1305@gmail.com**
+## 📫 How to reach me: **iper1305@gmail.com**
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perepada/)
