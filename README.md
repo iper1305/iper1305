@@ -23,11 +23,8 @@
   * Proficient in managing tests as Jira issues, enhancing traceability and test coverage with XRAY.
   
 + 📚 **Education**
-  [] Hillel IT School:
-             Professional courses: Java QA Automation
-  [] Chernivtsi cooperative college of law and economics:
-             Junior Degree: Commodity science and trade organization
-  [] Yuriy Fedkovych Chernivtsi National University:
-             Master's degree: Marketing
+  [] Hillel IT School:Professional courses: Java QA Automation
+  [] Yuriy Fedkovych Chernivtsi National University: Master's degree: Marketing
+  [] Chernivtsi cooperative college of law and economics: Junior Degree: Commodity science and trade organization
   
   
