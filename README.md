@@ -6,7 +6,7 @@ Passionate software testing engineer with expertise in automation testing techno
 ⚡ **A Few Quick Facts**
 
 - 🛠️ I'm currently working as a Software Test Automation Engineer at MotherLink.
-- 🧠 I’m currently learning: **Appium, Jenkins, Allure TestOps**.
+- 🧠 I’m currently learning: **TypeScript, Playwright**.
 - 📫 How to reach me: **iper1305@gmail.com**
 
 ### Connect with me:
